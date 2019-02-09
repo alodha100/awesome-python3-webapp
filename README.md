@@ -95,3 +95,5 @@
 10. [  Python进阶必读汇总 -------认真看完，秒杀一大片](http://www.kuqin.com/shuoit/20151116/348975.html)
 11. [Python 深入理解yield](http://www.jb51.net/article/15717.htm)
 12. [Python SMTP发送邮件](http://www.runoob.com/python/python-email.html)
+
+new update
